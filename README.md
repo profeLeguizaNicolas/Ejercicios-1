@@ -22,12 +22,14 @@ En todos los ejercicios, los datos deben ser ingresados por el usuario mediante 
 4. Escribe un programa que le pida un número al usuario e imprima en la consola si el número si es mayor, menor o igual que 10.
 
     *Si el número es menor a 10 debe imprimir `El número es menor que 10`.*
+<br>
     *Si el número es mayor a 10 debe imprimir `El número es mayor que 10`.*
+<br>
     *Si el número es igual a 10 debe imprimir `El número es igual a 10`.*
 
-5. Escribe un programa que le pida al usuario ingresar una frase. El programa debe imprimir la frase en la consola 10 veces.
+6. Escribe un programa que le pida al usuario ingresar una frase. El programa debe imprimir la frase en la consola 10 veces.
 
-6. Escribe un programa para la consola que le pida al usuario un número e imprima los números desde 1 hasta el número.
+7. Escribe un programa para la consola que le pida al usuario un número e imprima los números desde 1 hasta el número.
 
     *Por ejemplo, si el usuario ingresa el número 5, el programa de be imprimir:*
     *1*
@@ -36,4 +38,4 @@ En todos los ejercicios, los datos deben ser ingresados por el usuario mediante 
     *4*
     *5*
 
-7. Realice el código que permita ingresar 70 números enteros y determine la suma total de los mismos, el número mayor ingresado y la cantidad de valores que sean mayores a diez.
+8. Realice el código que permita ingresar 70 números enteros y determine la suma total de los mismos, el número mayor ingresado y la cantidad de valores que sean mayores a diez.
